@@ -1,6 +1,7 @@
 ---
-Title: "Your PCB Project Name"
-Author: "Your name (name or slack username)"
-Description: "Describe your PCB project in a short sentence!"
-Created On: "10/7/2025"
+Title: "Wack-a-Mole"
+Author: "Ofer Afik"
+Description: "A wack a mole game made on a breadboard, updated for PCB."
+Created On: "9/11/2025"
 ---
+
